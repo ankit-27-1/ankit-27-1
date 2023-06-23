@@ -1,5 +1,5 @@
 
-<h1 color="blue" align="center">Hi 👋, I'm Ankit😉</h1>
+<h1 color="#C4D7B2" align="center">Hi 👋, I'm Ankit😉</h1>
 <img align="right" width="200" src='https://media0.giphy.com/media/l41Ys1fQky5raqvMQ/giphy.gif?cid=ecf05e474610tmkne75ufakz4oqdb5mvhzrq4436wrbxbnq5&ep=v1_gifs_search&rid=giphy.gif&ct=g'/>
 <h3 align="left">A passionate Coder and web developer</h3>
 
