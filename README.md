@@ -1,7 +1,7 @@
 
-<h1 align="left">Hi 👋, I'm Ankit😉</h1>
+<h1 align="center">Hi 👋, I'm Ankit😉</h1>
 <img align="right" width="400" src='https://media0.giphy.com/media/l41Ys1fQky5raqvMQ/giphy.gif?cid=ecf05e474610tmkne75ufakz4oqdb5mvhzrq4436wrbxbnq5&ep=v1_gifs_search&rid=giphy.gif&ct=g'/>
-<h3 align="center">A passionate Coder and web developer</h3>
+<h3 align="left">A passionate Coder and web developer</h3>
 
 - 🔭 I’m currently working on **Data Structures**
 
