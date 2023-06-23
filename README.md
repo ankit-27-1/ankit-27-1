@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning React JS
 
-📫 How to reach me gajjodaddy@gmail.com
+📫 How to reach me ankitjha2701@gmail.com
 
 ⚡ Fun fact not a nerd
 <!--
