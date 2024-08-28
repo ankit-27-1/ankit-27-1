@@ -3,9 +3,9 @@
 <img align="right" width="250" height="300" src='https://i.giphy.com/media/nQP9yiMT2MPShAAjHV/giphy.webp'/>
 <h3 align="left">A passionate Coder and web developer</h3>
 
-- 🔭 I’m currently working on **Data Structures**
+- 🔭 I’m interested working on **Data Structures**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **DBMS**
 
 - 🤝 I’m looking for help with **my skills**
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **ankitjha2701@gmail.com**
 
-- ⚡ Fun fact **I think i support rcb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
