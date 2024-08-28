@@ -1,7 +1,7 @@
 
 <h1 color="#C4D7B2" align="center">Hi 👋, I'm Ankit😉</h1>
 <img align="right" width="250" height="300" src='https://i.giphy.com/media/nQP9yiMT2MPShAAjHV/giphy.webp'/>
-<h3 align="left">A passionate Coder and web developer</h3>
+<h3 align="left">A passionate Coder</h3>
 
 - 🔭 I’m interested working on **Data Structures**
 
